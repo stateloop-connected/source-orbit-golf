@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc -b && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "ronpicard/orbit-golf",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "c854d9829da8828d2a35f7c15c4dfbd51a6ebd73"
+}
